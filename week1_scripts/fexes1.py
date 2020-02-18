@@ -1,4 +1,5 @@
 # Prints the sum of the natural numbers from 1 to n, including n
+# Finger exercise (fex)
 
 num = 1
 add = 0
