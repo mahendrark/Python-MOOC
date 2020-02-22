@@ -12,4 +12,19 @@ for an in range(0,(str_len - 2)):
 print(count)
         
 
+"""
+Implementation with function:
 
+def countBobs(wordbob):
+    """
+    Prints the number of times the string 'bob' occurs in s. 
+    For example, if s = 'azcbobobegghakl', then your program should print
+    """
+    count = 0
+    strlen = len(wordbob)
+
+    for i in range(0, strlen-2):
+        if wordbob[i] == 'b' and wordbob[i+1] == 'o' and wordbob[i+2] == 'b':
+            count += 1
+    return count
+"""

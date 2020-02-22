@@ -1,0 +1,6 @@
+prog1 to prog10 are programming tasks from the midterm exams of the previous iterations of the
+course, shared by people on their github repos.
+These are used to practice before the upcoming midterm exam.
+
+prog1 to prog5 are sourced from: https://github.com/FlashPilot/MITx-6.00.1x
+
